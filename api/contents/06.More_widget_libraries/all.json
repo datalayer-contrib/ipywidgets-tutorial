@@ -1,0 +1,121 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-17T07:19:23.847792Z",
+      "format": null,
+      "last_modified": "2022-07-17T07:17:57.071172Z",
+      "mimetype": null,
+      "name": "06.02-ipycytoscape.ipynb",
+      "path": "06.More_widget_libraries/06.02-ipycytoscape.ipynb",
+      "size": 514869,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-17T07:19:23.863792Z",
+      "format": null,
+      "last_modified": "2022-07-17T07:17:57.103173Z",
+      "mimetype": null,
+      "name": "piston.vtu",
+      "path": "06.More_widget_libraries/piston.vtu",
+      "size": 4676565,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-17T07:19:23.847792Z",
+      "format": null,
+      "last_modified": "2022-07-17T07:17:57.067172Z",
+      "mimetype": null,
+      "name": "06.01-ipycanvas.ipynb",
+      "path": "06.More_widget_libraries/06.01-ipycanvas.ipynb",
+      "size": 16980,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-17T07:19:23.847792Z",
+      "format": null,
+      "last_modified": "2022-07-17T07:17:57.067172Z",
+      "mimetype": null,
+      "name": "06.00-More_widget_libraries.ipynb",
+      "path": "06.More_widget_libraries/06.00-More_widget_libraries.ipynb",
+      "size": 1857,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-17T07:19:23.847792Z",
+      "format": null,
+      "last_modified": "2022-07-17T07:17:57.071172Z",
+      "mimetype": null,
+      "name": "06.03-ipydatagrid.ipynb",
+      "path": "06.More_widget_libraries/06.03-ipydatagrid.ipynb",
+      "size": 24675,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-17T07:19:23.851792Z",
+      "format": null,
+      "last_modified": "2022-07-17T07:17:57.071172Z",
+      "mimetype": null,
+      "name": "06.05-other-widget-libraries.ipynb",
+      "path": "06.More_widget_libraries/06.05-other-widget-libraries.ipynb",
+      "size": 13552,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-17T07:19:23.859792Z",
+      "format": null,
+      "last_modified": "2022-07-17T07:19:23.859792Z",
+      "mimetype": null,
+      "name": "extras",
+      "path": "06.More_widget_libraries/extras",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-17T07:19:23.875792Z",
+      "format": null,
+      "last_modified": "2022-07-17T07:17:57.103173Z",
+      "mimetype": "application/json",
+      "name": "us-states-density-colored.json",
+      "path": "06.More_widget_libraries/us-states-density-colored.json",
+      "size": 100496,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-17T07:19:23.851792Z",
+      "format": null,
+      "last_modified": "2022-07-17T07:17:57.071172Z",
+      "mimetype": null,
+      "name": "06.04-ipygany.ipynb",
+      "path": "06.More_widget_libraries/06.04-ipygany.ipynb",
+      "size": 3627,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-17T07:19:23.875792Z",
+  "format": "json",
+  "last_modified": "2022-07-17T07:19:23.875792Z",
+  "mimetype": null,
+  "name": "06.More_widget_libraries",
+  "path": "06.More_widget_libraries",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
